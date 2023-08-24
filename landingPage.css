@@ -46,7 +46,7 @@ p{
 }
 .d-txt{
     display:flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .d-txt p{
     width:85%;
@@ -665,5 +665,8 @@ p{
    }
    .detailButton{
     display:none;
+   }
+   .intro1Txt .d-txt{
+    justify-content: center;
    }
 }
