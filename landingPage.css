@@ -46,7 +46,7 @@ p{
 }
 .d-txt{
     display:flex;
-    justify-content: flex-start;
+    justify-content:flex-start;
 }
 .d-txt p{
     width:85%;
