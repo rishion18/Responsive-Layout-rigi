@@ -44,6 +44,13 @@ p{
     color: white;
     
 }
+.d-txt{
+    display:flex;
+    justify-content: center;
+}
+.d-txt p{
+    width:85%;
+}
 .intro1Button{
     width:70%;
     height:40px;
