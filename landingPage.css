@@ -633,10 +633,12 @@ p{
         font-size:21px;
     }
     .f1Img .img1 {
-        height:200px;
+         height:150px;
+        position:relative;
+        left:20px;
     }
     .f1Img .img2{
-        width:300px;
+        width:200px;
         height: auto;
     }
     .footer1 .f1-wrap .f1Button{
