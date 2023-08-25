@@ -677,4 +677,20 @@ p{
    .playstore{
     width:100px;
    }
+       .lPage.featuredIn .magazines .forbes{
+    height:15px;
+    width:auto;
+   }
+   .lPage.featuredIn .magazines .et{
+    height:15px;
+    width:auto;
+   }
+   .lPage.featuredIn .magazines .mint{
+    height:15px;
+    width:auto;
+   }
+   .lPage.featuredIn .magazines .toi{
+    height:15px;
+    width:auto;
+   }
 }
