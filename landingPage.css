@@ -669,4 +669,10 @@ p{
    .intro1Txt .d-txt{
     justify-content: center;
    }
+       .appstore{
+    width:100px;
+   }
+   .playstore{
+    width:100px;
+   }
 }
